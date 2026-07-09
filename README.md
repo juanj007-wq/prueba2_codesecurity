@@ -6,7 +6,7 @@ capacidades de detección de **Trend Vision One Code Security (TMAS)**.
 
 **Nada de este contenido es malicioso ni funcional.** No desplegar en producción.
 
-## Qué demuestra ...CAMBIO99...
+## Qué demuestra ...CAMBIO999...
 
 - **Vulnerabilities:** `package.json` y `requirements.txt` traen versiones viejas
   de librerías populares con CVEs conocidos → TMAS los detecta en el scan de
