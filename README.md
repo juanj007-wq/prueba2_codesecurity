@@ -1,4 +1,4 @@
-# Demo Vulnerable App — TMAS Code Security ...CAMBIO...
+# Demo Vulnerable App — TMAS Code Security 
 
 ⚠️ **Repositorio de DEMOSTRACIÓN.** Contiene dependencias intencionalmente
 desactualizadas y secrets **falsos (dummy)** con el único fin de mostrar las
@@ -6,7 +6,7 @@ capacidades de detección de **Trend Vision One Code Security (TMAS)**.
 
 **Nada de este contenido es malicioso ni funcional.** No desplegar en producción.
 
-## Qué demuestra
+## Qué demuestra ...CAMBIO...
 
 - **Vulnerabilities:** `package.json` y `requirements.txt` traen versiones viejas
   de librerías populares con CVEs conocidos → TMAS los detecta en el scan de
